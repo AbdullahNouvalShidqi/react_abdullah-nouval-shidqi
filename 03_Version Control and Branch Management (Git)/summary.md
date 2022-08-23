@@ -37,9 +37,9 @@ Dapat dilihat pada foto berikut saya menambah branch baru lalu menambah sedikit 
 
 ### Buatlah branch keempat sebagai penambah fitur, pada branch ini lakukan penambahan fitur. Lakukan merge pada branch tiga kedalam branch develop
 Dapat dilihat pada foto berikut saya menambahkan branch bernama feature b sebagai brach keempat dan menambahkan sedikit line kepada kodingan lalu di merge juga ke development.  
-1. Berikut untuk isi dari feature A.  
+1. Berikut untuk isi dari feature B.  
 ![](./screenshot/featureB.png)  
-2. Berikut sudah memasukkan feature A ke Branch development.  
+2. Berikut sudah memasukkan feature B ke Branch development.  
 ![](./screenshot/development_mergeB.png)   
 
 ### Buktikan dari screenshot dari insight=>network. Kumpulkan SS dan juga link dari repo kalian pada alta.id
