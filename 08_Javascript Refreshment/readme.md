@@ -123,3 +123,40 @@ Fungsi asysnchronous merupakan sebuah function yang bekerja secara asysnchronous
 Dom adalah API untuk HTML yang merepresentasikan halaman web pada suatu dokumen menjadi sebuah objek. Pada DOM terdapat 3 hal yaitu selection method, manipulation dan event. Contoh dari event adalah getElementById() yang digunakan untuk mengambil element pada html berdasarkan id. Contoh juga ada getElementsByTagName(), mengambil elemen yang berhubungan dengan tag tertentu secara menyeluruh, di return value dalam bentuk array.  
 Lalu ada DOM manipulation, ada element.innerHTML, yang digunakan untuk merubah isi dari tag yang sudah kita seleksi, lalu ada element.style.(PropertiCSS) digunakan merubah style dari tag yang sudah kita seleksi, lalu element.setAttribute(), digunakan untuk mengelola/memanipulasi attribute yang sudah kita seleksi dan ada element.classList.add(), digunakan untuk mengelola/memanipulasi class yang sudah kita seleksi.  
 Lalu ada event seperti onclick, onchange, onblur, onmousehover, onmouseout, oncopy.
+
+## Task
+![](./screenshot/task1.png)  
+![](./screenshot/task2.png)  
+![](./screenshot/task3.png)  
+![](./screenshot/task456.png)  
+
+### Jawaban no 1
+a. Output:  
+![](./screenshot/1_a.png)  
+b. Output:  
+![](./screenshot/1_b.png)  
+c. Output:  
+![](./screenshot/1_c.png)  
+d. Output:  
+![](./screenshot/1_d.png)
+
+### Jawaban no 2
+a. Karena pada saat melakukan pendeklarasian dari nilai terdaftar diisikan false, maka saat di run karena false atau tidak benar, maka pada percabangan tidak akan diseksekusi isinya.  
+b. Karena ada teori scoping pada Javascript, dimana sebuah variabel hanya dapat diakses pada ruang lingkup tertentu, dan yang didalam fungsi deklarasinya, maka tidak akan digukanan di luar fungsi, dan jika digunakan maka akan meyababkan error.
+c. Tidak bisa karena tidak merubah bahwa variabel asal terdapat didalam fungsi perkenalkan().
+
+### Jawaban no 3
+Jawaban dan juga output dapat dilihat di foto berikut.  
+![](./screenshot/3.png)
+
+### Jawaban no 4
+Output dengan mengubah tanda - menjadi / di array.  
+![](./screenshot/4.png)  
+
+### Jawaban no 5
+Output dan juga kodingan untuk jawaban no 5.  
+![](./screenshot/5.png)  
+
+### Jawaban no 6
+Output dan juga kodingan untuk jawaban no 6.  
+![](./screenshot/6.png)
