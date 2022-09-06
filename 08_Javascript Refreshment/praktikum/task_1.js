@@ -1,8 +1,8 @@
-var a = 5;
+let a = 5;
 let b = "kampus merdeka";
 const nama = "Budi";
 let terdaftar = true;
-let lengkap_arr = [a, b, nama, terdaftar];
+let lengkapArr = [a, b, nama, terdaftar];
 
 function perkenalan(){
     let asal = "Indonesia";
@@ -22,7 +22,7 @@ if(terdaftar === true){
     console.log(nama + " terdaftar sebagai kegiatan kampus merdeka")
 }
 
-console.log("array = " + lengkap_arr[2]);
+console.log("array = " + lengkapArr[2]);
 
 a = b;
 
