@@ -25,3 +25,16 @@ Karakteristik dari clean code sendiri di antara lain:
 
 ### 4. Clean code principle.
 Salah satu dari principle clean code adalah KISS(Keep It So Simple), dimana kita harus menghidari suatu fungsi yang melakukan lebih dari satu hal, lalu ada DRY(Don't Repeat Yourself), dimana kode digunakan berulangan yang biasa terjadi akibat melakukan copy-paste terlalu sering atau banyak, dimana jika ada kesalahan kita bisa melakukan refaktor, atau perbaiki kode yang sudah dibuat.
+
+## Task
+Tugas yang diberikan alterra dapat dilihat pada foto berikut.  
+![](./screenshot/1.png)  
+![](./screenshot/2.png)  
+
+### Jawaban no 1
+Dapat dilihat pada kumpulan komen di kodingan [task1_01.js](./praktikum/task_01.js) untuk penjelasan pada bagian salah nya dimana.
+
+### Jawaban no 2
+Dapat dilihat bentuk yang sudah dibenarkan disini [task_02.js](./praktikum/task_02.js) dimana disini saya menggantikan beberapa cara penulisan, dimana class sekarang menggunakan pascalcase yang tadinya tidak, sebagaimana variabel diganti dengan camelcase, dan membenarkan beberapa bagian yang membuat kodingan error saat di run, seperti dibagian method menggunakan void, dan pada bagian method ada yang tidak menggunakan this membuat codingan error.  
+Berikut adalah output saat kodingan dijalankan dengan kodingannya.  
+![](./screenshot/output_2.png)
