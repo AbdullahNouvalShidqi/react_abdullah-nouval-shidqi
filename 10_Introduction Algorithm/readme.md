@@ -36,3 +36,16 @@ Looping adalah konsep untuk melakukan sebuah aksi secara berulang, sampai dengan
 
 ### 5. Pseudo code.
 Misal berdasarkan kasus untuk menghitung luas segitiga, maka tahapan yang dilakukan adalah INPUT alas dan tinggi, CALCULATE luas = (alas x tinggi)/2, dan PRINT luas, dan hal ini dapat digambarkan dengan beberapa cara, salah satunya adalah flowchart, dimana flowchart adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail.
+
+## Task
+Mengerjakan tugas berikut yang diberikan alterra.  
+![](./screenshot/task_01.png)  
+![](./screenshot/task_02.png)  
+
+### Jawaban no 1
+Berikut adalah gambar dari flowchart yang telah saya buat, dapat dilihat juga melalui link [disni](https://whimsical.com/flowchart-4M1DvFvVPUcmaYTW9pgKjq@2Ux7TurymMw1DAz5ENLv)  
+![](./screenshot/flowchart_no1.png)  
+
+### Jawaban no 2
+Berikut adalah gambar dari flowchart yang telah saya buat, dapat dilihat juga melalui link [disni](https://whimsical.com/flowchart2-Qz9utTpGbiSWMzHTUXeCjJ@2Ux7TurymN2stWKAR7oV)  
+![](./screenshot/flowchart_no2.png)
