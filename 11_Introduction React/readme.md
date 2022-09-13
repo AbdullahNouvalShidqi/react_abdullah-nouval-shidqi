@@ -29,3 +29,20 @@ React ini sudah banyak digunakan di aplikasi-aplikasi pada perusahaan besar, sep
 
 5. React merupakan teknologi yang populer  
 Dibanding library lain, react merupakan sebuah library yang paling sering di download daripada library lainnya berdasarkan data tertentu.
+
+## Task
+Soal berikut merupakan soal yang diberikan oleh alterra.  
+![](./screenshot/task_1.png)  
+link halaman home [disini](https://drive.google.com/drive/folders/1Nw2lg57SE3sKkhD5QAO9rhvfsE6ELR_X?usp=sharing)  
+Convert html to jsx link [disni](https://magic.reactjs.net/htmltojsx.htm)  
+
+### Jawaban no 1
+Membuat projek react baru pada folder praktikum di dalam folder 11_Introduction React dengan menggunakan terminal dalam vs code dan dapat dilihat pada foto berikut.  
+![](./screenshot/creating_new_react_project.png)  
+
+
+### Jawaban no 2
+Memasukkan file index.html yang merupakan tampilan home kedalam file Home.js yang berisikan seperti berikut.  
+![](./screenshot/home_js.png)  
+Lalu sesudah bisa, langsung di run dengan menjalankan command npm start, dan output seperti berikut.  
+![](./screenshot/app_output.png)
