@@ -1,0 +1,13 @@
+.header{
+    padding: 10px 10px;
+    border-bottom: 5px solid grey;
+}
+
+.card{
+    background-color: white;
+    padding: 0px 10px;
+    margin: 10px 10px;
+    border: 1px solid grey;
+    border-radius: 40px;
+    word-wrap: break-word;
+}
