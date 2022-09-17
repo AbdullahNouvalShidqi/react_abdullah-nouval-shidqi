@@ -1,0 +1,14 @@
+.Header {
+    max-width: 200px;
+    font-size: 30px;
+    margin: auto;
+    background:  linear-gradient(
+        to right, 
+        red, 
+        #f06d06, 
+        rgb(255, 255, 0), 
+        green
+      );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
