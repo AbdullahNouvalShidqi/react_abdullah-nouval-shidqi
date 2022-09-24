@@ -72,6 +72,7 @@ const Form = () =>{
             alert("Data Pendaftar Tidak Sesuai");
         } else{
             alert("Data Pendaftar " + data.nama +" Berhasil Diterima");
+            setData(baseData);
         }
     }
 
