@@ -1,0 +1,25 @@
+.costum-sidebar{
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.costum-sidebar a{
+    margin: 10px 10px;
+    text-align: center;
+    padding: 10px 8px;
+    display: flex;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+}
+
+.costum-sidebar a:hover{
+    background-color: blueviolet;
+}
