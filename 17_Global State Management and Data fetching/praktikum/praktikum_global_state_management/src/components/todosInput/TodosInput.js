@@ -5,12 +5,11 @@ import './TodosInput.css'
 
 function TodosInput (){
     const dispatch = useDispatch();
-    const [state, setState] = useState(
-        {
-            title: "",
-            completed: false
-        }
-    );
+
+    const [state, setState] = useState({
+        title: "",
+        completed: false
+    });
 
     const onChange = (e) => {
         setState({
