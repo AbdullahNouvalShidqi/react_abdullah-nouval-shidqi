@@ -21,3 +21,9 @@ Surge disini adalah layanan penerbit website statik gratis untuk Front-End Devel
 
 ### 5. Deployment dengan Netlify CLI.
 Netlify adalah salah satu platform penyedia layanan build tools sekaligus Continous Deployment. Netlify memungkinkan kita untuk mempublish website secara gratis. Netlify juga sudah terintegrasi dengan Git Host popular seperti Github, Gitlab dan Bitbucket. Untuk melakukannya kita haru buat akun dulu pada [www.netlify.com](www.netlify.com), lalu kita install netlify dengan menggunakan command "npm install netlify-cli -g", lalu kita jalankan netlify deploy untuk melakukan deploy, lalu kita melakukan verivikasi akun melalui browser lalu pilih authorize, lalu pilih create & configure a new site, pilih team yang tersedia dan mengisi nama site nya tapi opsional, tetapi jika tidak diisi maka nama yang akan diberikan akan random dan panjang, setelah itu kita pilih lokasi file yang akan di deploy lalu pilih ./build.
+
+## Praktikum
+Publish web sesuai dengan tampilan saat run pertama atau install pertama projek react, dengan digantinya dengan nama kita dan menggantikan link react menjadi link github kita, website dapat diakses [disini](https://6347bcb7a9a4d4632bba30f4--abdullah-nouval.netlify.app).  
+
+Berikut adalah gambar output yang dapat dilihat.  
+![](./screenshot/netlify_output.png)
