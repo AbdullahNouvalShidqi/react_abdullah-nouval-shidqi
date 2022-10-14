@@ -16,3 +16,30 @@ Dalam GraphQL terdapat 3 fitur utama yaitu:
 
 ### 3. GraphQL pada Hasura
 Pada Hasura ini kita bisa membuat sebuah database lalu, kita bisa melakukan banyak dengan menggunakan GraphQL, ada pada Hasura seperti tempat postman, yaitu pengetesan dan pengambilan data, update data dan lain-lain dengan menggunakan graphql, kita bisa mengimplementasikan query, mutation dan subscription.
+
+
+## Praktikum
+Berikut adalah soal yang diberikan alterra.  
+![](./screenshot/soal_alterra.png)  
+
+- Membuat database dengan nama kampus_merdeka.  
+![](./screenshot/database.png)  
+
+- Buat table anggota.  
+![](./screenshot/tabel_anggota.png)  
+
+- Buat table keterangan.  
+![](./screenshot/tabel_keterangan.png)  
+
+- Memasukkan tiga data.  
+![](./screenshot/isi_anggota.png)  
+
+- Memasukkan data keterangan.  
+![](./screenshot/isi_keterangan.png)
+
+- Memasukkan insert mutation.  
+![](./screenshot/insertData1.png)  
+![](./screenshot/insertData2.png)
+
+- Mutation update nilai false jadi true.  
+![](./screenshot/update_data_where_false_to_true.png)
