@@ -22,3 +22,13 @@ One-to-many relationship adalah sebuah hubungan antara dua tabel, yang dimana sa
 
 3. Many-to-many.  
 Many-to-many relationship merupakan hubungan antara dua tabel, dimana dua tabel dapat bermunculan lebih dari sekali, contoh misal tedapat data banyak mahasiswa berhubungan dengan banyak mata kuliah, dimana mata kuliah dapat diambil dari banyak mahasiswa.
+
+## Praktikum
+Berikut soal dari alterra.  
+![](./screenshot/soal.png)  
+
+1. Jawaban dianggap one-to-one karena setiap 1 id anggota memiliki 1 ketereangan, dan setial keterengan memiliki 1 anggota, berikut table nya.  
+![](./screenshot/one-to-one.png)  
+
+2. Dan untuk ini memiliki satu anggota saja, tapi tiap anggota boleh memiliki 2 keterangan atau lebih maka dianggap one-to-many.  
+![](./screenshot/one-to-many.png)
