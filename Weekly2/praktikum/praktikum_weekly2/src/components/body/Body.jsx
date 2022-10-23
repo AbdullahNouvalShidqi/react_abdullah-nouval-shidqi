@@ -1,3 +1,4 @@
+import About from '../about/About';
 import ContactForm from '../contactForm/ContactForm';
 import './Body.css'
 
@@ -15,6 +16,7 @@ const Body = () =>{
                 </div>
             </div>
             <ContactForm />
+            <About />
         </div>
     );
 }

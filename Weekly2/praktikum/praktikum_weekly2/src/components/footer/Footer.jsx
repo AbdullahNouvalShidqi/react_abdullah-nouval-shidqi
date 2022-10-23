@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import './Footer.css'
 
 const Footer = () => {
@@ -14,7 +13,6 @@ const Footer = () => {
             </label>
             <div className='main-footer-title'>
                 <h1 className='costum-h1'>My APP</h1>
-                <Link to='/about'>About Us</Link>
                 <p>&#169; Abdullah Nouval Shidqi</p>
             </div>
             
