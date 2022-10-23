@@ -1,6 +1,6 @@
-import Body from "../body/Body";
-import Footer from "../footer/Footer";
-import Header from "../header/Header";
+import Body from "../../components/body/Body";
+import Footer from "../../components/footer/Footer";
+import Header from "../../components/header/Header";
 import './Home.css'
 
 const Home = () => {
@@ -10,7 +10,6 @@ const Home = () => {
             <Body />
             <Footer />
         </div>
-        
     );
 }
 
