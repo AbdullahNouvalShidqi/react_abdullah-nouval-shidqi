@@ -1,0 +1,16 @@
+.costum-body-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 1.5rem;
+}
+
+.introduction-container{
+    max-width: 500px;
+    padding: 10px;
+}
+
+p{
+    padding-top: 10px;
+    text-align: start;
+}

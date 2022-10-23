@@ -1,0 +1,9 @@
+.home-container{
+    text-align: center;
+    color: white;
+    background-image: url(../../assets/images/dark-background.jpg);
+    overflow: hidden;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
