@@ -1,0 +1,16 @@
+.contact-form-container{
+    display: flex;
+    flex-direction: row;
+    max-width: 400px;
+    text-align: start;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.alert-message{
+    font-weight: 500;
+    padding: 0;
+    margin-bottom: 0;
+    color: red;
+    text-align: center;
+}
